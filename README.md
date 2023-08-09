@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruvanshu Pitroda</h1>
-<h3 align="center">Backend enthusiast transforming ideas into digital reality. Crafting robust server-side solutions with a passion for efficiency and security. Proficient in Python, I navigate databases, APIs, and architecture intricacies to ensure seamless user experiences. Dedicated to optimizing performance and enabling smooth frontend-backend interplay. Lifelong learner in the realm of code and coffee aficionado. 🚀💻 #BackendDeveloper</h3>
+<h3 align="center">Backend enthusiast transforming ideas into digital reality. Crafting robust server-side solutions with a passion for efficiency and security. Proficient in Python, I navigate databases, APIs, and architecture intricacies to ensure seamless user experiences. Dedicated to optimizing performance and enabling smooth frontend-backend interplay. Lifelong learner in the realm of code and coffee aficionado. 🚀💻 #BackendDeveloper </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvanshu1775&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvanshu1775" /> </p>
 
