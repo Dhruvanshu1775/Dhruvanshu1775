@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Pytest And Github Action Integration](https://dhruvanshu1775.medium.com/pytest-and-github-action-integration-e35b3d8aff1d?source=rss-c2218f4f20cb------2)
 - [Multitenancy in flask app and postgresql database](https://dhruvanshu1775.medium.com/multitenancy-in-flask-app-and-postgresql-database-c0117b1179c5?source=rss-c2218f4f20cb------2)
 - [Implementation of Asynchronous Task in Django using celery and Rabbit-mq in Docker](https://dhruvanshu1775.medium.com/implementation-of-asynchronous-task-in-django-using-celery-and-rabbit-mq-in-docker-e98f7298172d?source=rss-c2218f4f20cb------2)
 <!-- BLOG-POST-LIST:END -->
